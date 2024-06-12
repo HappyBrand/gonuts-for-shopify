@@ -555,13 +555,12 @@ video {
   --tw-contain-style:  ;
 }
 
-<<<<<<< HEAD
+
 .absolute {
   position: absolute;
 }
 
-=======
->>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
+
 .relative {
   position: relative;
 }
@@ -575,14 +574,13 @@ video {
   margin: -0.75rem;
 }
 
-=======
->>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
 }
 
-<<<<<<< HEAD
+
 .-ml-5 {
   margin-left: -1.25rem;
 }
@@ -608,7 +606,7 @@ video {
   display: table;
 }
 
-<<<<<<< HEAD
+
 .grid {
   display: grid;
 }
@@ -649,7 +647,7 @@ video {
   justify-content: center;
 }
 
-<<<<<<< HEAD
+
 .gap-6 {
   gap: 1.5rem;
 }
