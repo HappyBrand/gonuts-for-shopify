@@ -1,6 +1,10 @@
 package.json
 package-lock.json
 css
+<<<<<<< HEAD
 node_modules
 
 
+=======
+node_modules
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f

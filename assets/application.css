@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
 ! tailwindcss v3.4.4 | MIT License | https://tailwindcss.com
+=======
+! tailwindcss v3.4.3 | MIT License | https://tailwindcss.com
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 */
 
 /*
@@ -554,14 +558,18 @@ video {
   --tw-contain-style:  ;
 }
 
+<<<<<<< HEAD
 .absolute {
   position: absolute;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .relative {
   position: relative;
 }
 
+<<<<<<< HEAD
 .z-10 {
   z-index: 10;
 }
@@ -570,11 +578,14 @@ video {
   margin: -0.75rem;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
 }
 
+<<<<<<< HEAD
 .-ml-5 {
   margin-left: -1.25rem;
 }
@@ -587,6 +598,8 @@ video {
   margin-top: 1.25rem;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .flex {
   display: flex;
 }
@@ -599,14 +612,18 @@ video {
   display: table;
 }
 
+<<<<<<< HEAD
 .grid {
   display: grid;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .hidden {
   display: none;
 }
 
+<<<<<<< HEAD
 .w-screen {
   width: 100vw;
 }
@@ -619,6 +636,8 @@ video {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .items-center {
   align-items: center;
 }
@@ -635,10 +654,13 @@ video {
   justify-content: center;
 }
 
+<<<<<<< HEAD
 .gap-6 {
   gap: 1.5rem;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .space-x-10 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(2.5rem * var(--tw-space-x-reverse));
@@ -651,10 +673,13 @@ video {
   margin-left: calc(1.25rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
+<<<<<<< HEAD
 .overflow-hidden {
   overflow: hidden;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .truncate {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -665,6 +690,7 @@ video {
   white-space: nowrap;
 }
 
+<<<<<<< HEAD
 .rounded-lg {
   border-radius: 0.5rem;
 }
@@ -673,6 +699,8 @@ video {
   border-width: 1px;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .bg-red-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(127 29 29 / var(--tw-bg-opacity));
@@ -683,6 +711,7 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+<<<<<<< HEAD
 .bg-gray-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(17 24 39 / var(--tw-bg-opacity));
@@ -697,16 +726,21 @@ video {
   padding-right: 0.5rem;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
+<<<<<<< HEAD
 .px-5 {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
@@ -726,15 +760,19 @@ video {
   font-weight: 700;
 }
 
+<<<<<<< HEAD
 .font-medium {
   font-weight: 500;
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .text-gray-500 {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD
 .text-gray-900 {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
@@ -760,12 +798,15 @@ video {
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 .hover\:text-gray-900:hover {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
 }
 
 @media (min-width: 640px) {
+<<<<<<< HEAD
   .sm\:gap-8 {
     gap: 2rem;
   }
@@ -779,6 +820,8 @@ video {
     padding-right: 0px;
   }
 
+=======
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
   .sm\:px-6 {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
@@ -806,6 +849,7 @@ video {
 }
 
 @media (min-width: 1024px) {
+<<<<<<< HEAD
   .lg\:left-1\/2 {
     left: 50%;
   }
@@ -822,4 +866,9 @@ video {
     --tw-translate-x: -50%;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
+=======
+  .lg\:flex-1 {
+    flex: 1 1 0%;
+  }
+>>>>>>> 876ee63fbf97154be32f109afabaa6228d6f032f
 }
